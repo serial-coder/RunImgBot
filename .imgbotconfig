@@ -1,0 +1,12 @@
+{
+    "schedule": "daily", // daily|weekly|monthly
+    "ignoredFiles": [
+    	// "*.jpg",                   // by extension
+    	// "image1.png",              // by filename
+        // "public/special_images/*", // by folderpath
+        //"site/static/img/posts/PizzaCoin",
+        //"/site/static/img/posts/Katinrun-PKTF",
+        //"/site/static/img/posts/Demystifying-Hyperledger-Fabric"
+    ]
+    //,."aggressiveCompression": true // true|false
+}
